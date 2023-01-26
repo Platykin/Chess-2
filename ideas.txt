@@ -1,0 +1,8 @@
+We need the basic funtionalities to start, those beeing the board and the
+ pieces
+
+First, we need a board to work with.
+
+For this first implementation, i think using a 8x8 matrix will work.
+
+
