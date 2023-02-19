@@ -11,7 +11,7 @@ private:
     std::vector <std::vector <int>> board;
 
 public:    
-    Board() : board(lines, std::vector <int> (columns, 0)) {}
+    Board() : board(lines, std::vector <int> (columns, 0)){}
 
     void display() const;
 };
